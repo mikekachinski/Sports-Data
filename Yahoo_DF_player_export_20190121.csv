@@ -1,0 +1,203 @@
+Id,First Name,Last Name,Position,Team,Opponent,Game,Time,Salary,FPPG,Injury Status,Starting
+nhl.p.2848,Dan,Hamhuis,D,NSH,COL,NSH@COL,3:00PM EST,10,2.3," ",No
+nhl.p.3764,Pekka,Rinne,G,NSH,COL,NSH@COL,3:00PM EST,30,10.6," ",Yes
+nhl.p.4558,P.K.,Subban,D,NSH,COL,NSH@COL,3:00PM EST,22,6.6," ",No
+nhl.p.4691,Ryan,Ellis,D,NSH,COL,NSH@COL,3:00PM EST,19,6.3," ",No
+nhl.p.4748,Zac,Rinaldo,LW,NSH,COL,NSH@COL,3:00PM EST,10,1.5,IR,No
+nhl.p.4838,Nick,Bonino,C,NSH,COL,NSH@COL,3:00PM EST,17,5.6," ",No
+nhl.p.4881,Matt,Irwin,D,NSH,COL,NSH@COL,3:00PM EST,10,3.8," ",No
+nhl.p.4930,Roman,Josi,D,NSH,COL,NSH@COL,3:00PM EST,23,8.2," ",No
+nhl.p.4978,Austin,Watson,RW,NSH,COL,NSH@COL,3:00PM EST,13,4.7," ",No
+nhl.p.5024,Calle,Jarnkrok,LW,NSH,COL,NSH@COL,3:00PM EST,12,3.9," ",No
+nhl.p.5142,Anthony,Bitetto,D,NSH,COL,NSH@COL,3:00PM EST,10,2.8," ",No
+nhl.p.5329,Mattias,Ekholm,D,NSH,COL,NSH@COL,3:00PM EST,19,7.2," ",No
+nhl.p.5396,Craig,Smith,RW,NSH,COL,NSH@COL,3:00PM EST,16,6.1," ",No
+nhl.p.5401,Rocco,Grimaldi,RW,NSH,COL,NSH@COL,3:00PM EST,10,3.0," ",No
+nhl.p.5691,Filip,Forsberg,LW,NSH,COL,NSH@COL,3:00PM EST,26,8.8," ",No
+nhl.p.5739,Colton,Sissons,C,NSH,COL,NSH@COL,3:00PM EST,18,6.0," ",No
+nhl.p.6009,Ryan,Hartman,LW,NSH,COL,NSH@COL,3:00PM EST,11,3.8," ",No
+nhl.p.6078,Juuse,Saros,G,NSH,COL,NSH@COL,3:00PM EST,33,9.9," ",No
+nhl.p.6377,Kevin,Fiala,LW,NSH,COL,NSH@COL,3:00PM EST,16,4.5," ",No
+nhl.p.6480,Viktor,Arvidsson,RW,NSH,COL,NSH@COL,3:00PM EST,25,8.9," ",No
+nhl.p.6655,Frederick,Gaudreau,C,NSH,COL,NSH@COL,3:00PM EST,10,1.4," ",No
+nhl.p.5420,Miikka,Salomaki,LW,NSH,COL,NSH@COL,3:00PM EST,10,3.0,IR,No
+nhl.p.4242,Kyle,Turris,C,NSH,COL,NSH@COL,3:00PM EST,10,4.4,DTD,No
+nhl.p.4537,Yannick,Weber,D,NSH,COL,NSH@COL,3:00PM EST,10,2.7," ",No
+nhl.p.3928,Carl,Soderberg,C,COL,NSH,NSH@COL,3:00PM EST,17,6.2," ",No
+nhl.p.3979,Erik,Johnson,D,COL,NSH,NSH@COL,3:00PM EST,12,4.6,DTD,No
+nhl.p.4003,Semyon,Varlamov,G,COL,NSH,NSH@COL,3:00PM EST,26,10.3," ",Yes
+nhl.p.4257,Ian,Cole,D,COL,NSH,NSH@COL,3:00PM EST,14,4.7," ",No
+nhl.p.4480,Colin,Wilson,RW,COL,NSH,NSH@COL,3:00PM EST,11,3.8," ",No
+nhl.p.4794,Matt,Calvert,RW,COL,NSH,NSH@COL,3:00PM EST,13,3.9," ",No
+nhl.p.4883,Gabriel,Bourque,RW,COL,NSH,NSH@COL,3:00PM EST,10,1.9," ",No
+nhl.p.4929,Mark,Barberio,D,COL,NSH,NSH@COL,3:00PM EST,10,1.5," ",No
+nhl.p.5014,Patrik,Nemeth,D,COL,NSH,NSH@COL,3:00PM EST,11,3.5," ",No
+nhl.p.5085,Philipp,Grubauer,G,COL,NSH,NSH@COL,3:00PM EST,27,8.5," ",No
+nhl.p.5281,Tyson,Barrie,D,COL,NSH,NSH@COL,3:00PM EST,21,8.0," ",No
+nhl.p.5363,Gabriel,Landeskog,LW,COL,NSH,NSH@COL,3:00PM EST,29,11.1," ",No
+nhl.p.5415,Matt,Nieto,LW,COL,NSH,NSH@COL,3:00PM EST,10,2.8," ",No
+nhl.p.5840,Alexander,Kerfoot,C,COL,NSH,NSH@COL,3:00PM EST,12,4.3," ",No
+nhl.p.5980,Nathan,MacKinnon,C,COL,NSH,NSH@COL,3:00PM EST,34,13.2," ",No
+nhl.p.5995,Nikita,Zadorov,D,COL,NSH,NSH@COL,3:00PM EST,12,3.4," ",No
+nhl.p.6010,Sven,Andrighetto,RW,COL,NSH,NSH@COL,3:00PM EST,10,3.0," ",No
+nhl.p.6015,J.T.,Compher,RW,COL,NSH,NSH@COL,3:00PM EST,14,6.1," ",No
+nhl.p.6752,Mikko,Rantanen,RW,COL,NSH,NSH@COL,3:00PM EST,32,11.7," ",No
+nhl.p.7155,Samuel,Girard,D,COL,NSH,NSH@COL,3:00PM EST,10,3.7," ",No
+nhl.p.7816,Sheldon,Dries,C,COL,NSH,NSH@COL,3:00PM EST,10,2.2," ",No
+nhl.p.6411,Vladislav,Kamenev,C,COL,NSH,NSH@COL,3:00PM EST,10,2.0,IR,No
+nhl.p.7547,Conor,Timmins,D,COL,NSH,NSH@COL,3:00PM EST,10,0.0,IR,No
+nhl.p.5559,Colin,Blackwell,C,NSH,COL,NSH@COL,3:00PM EST,10,1.0," ",No
+nhl.p.3103,Jay,Bouwmeester,D,STL,LA,STL@LA,4:00PM EST,13,3.4," ",No
+nhl.p.4265,David,Perron,RW,STL,LA,STL@LA,4:00PM EST,18,6.4,DTD,No
+nhl.p.4352,Pat,Maroon,LW,STL,LA,STL@LA,4:00PM EST,11,3.0," ",No
+nhl.p.4474,Alex,Pietrangelo,D,STL,LA,STL@LA,4:00PM EST,17,6.2," ",No
+nhl.p.4589,Jake,Allen,G,STL,LA,STL@LA,4:00PM EST,34,8.4," ",No
+nhl.p.4675,Carl,Gunnarsson,D,STL,LA,STL@LA,4:00PM EST,14,4.9," ",No
+nhl.p.4685,Brayden,Schenn,C,STL,LA,STL@LA,4:00PM EST,19,5.2," ",No
+nhl.p.4758,Robert,Bortuzzo,D,STL,LA,STL@LA,4:00PM EST,10,3.4," ",No
+nhl.p.4786,Ryan,O'Reilly,C,STL,LA,STL@LA,4:00PM EST,24,8.7," ",No
+nhl.p.4974,Jaden,Schwartz,LW,STL,LA,STL@LA,4:00PM EST,15,5.5," ",No
+nhl.p.4976,Vladimir,Tarasenko,RW,STL,LA,STL@LA,4:00PM EST,25,7.0," ",No
+nhl.p.5221,Jordan,Nolan,LW,STL,LA,STL@LA,4:00PM EST,10,2.3," ",No
+nhl.p.5414,Joel,Edmundson,D,STL,LA,STL@LA,4:00PM EST,11,3.7," ",No
+nhl.p.5454,Jordan,Binnington,G,STL,LA,STL@LA,4:00PM EST,30,11.8," ",Yes
+nhl.p.5758,MacKenzie,MacEachern,LW,STL,LA,STL@LA,4:00PM EST,10,0.7," ",No
+nhl.p.5772,Oskar,Sundqvist,RW,STL,LA,STL@LA,4:00PM EST,12,3.7," ",No
+nhl.p.5777,Colton,Parayko,D,STL,LA,STL@LA,4:00PM EST,16,5.8," ",No
+nhl.p.6041,Zach,Sanford,LW,STL,LA,STL@LA,4:00PM EST,10,3.9,IR,No
+nhl.p.6387,Robby,Fabbri,LW,STL,LA,STL@LA,4:00PM EST,10,2.6," ",No
+nhl.p.6402,Ivan,Barbashev,C,STL,LA,STL@LA,4:00PM EST,10,1.7," ",No
+nhl.p.6544,Sammy,Blais,LW,STL,LA,STL@LA,4:00PM EST,10,1.2," ",No
+nhl.p.6798,Vince,Dunn,D,STL,LA,STL@LA,4:00PM EST,18,5.1," ",No
+nhl.p.7143,Jordan,Kyrou,C,STL,LA,STL@LA,4:00PM EST,10,2.0," ",No
+nhl.p.7535,Robert,Thomas,RW,STL,LA,STL@LA,4:00PM EST,10,3.0,IR,No
+nhl.p.3136,Alexander,Steen,LW,STL,LA,STL@LA,4:00PM EST,11,4.9," ",No
+nhl.p.4629,Tyler,Bozak,C,STL,LA,STL@LA,4:00PM EST,12,4.2,IR,No
+nhl.p.6820,Erik,Foley,LW,STL,LA,STL@LA,4:00PM EST,10,0.0," ",No
+nhl.p.2944,Ilya,Kovalchuk,LW,LA,STL,STL@LA,4:00PM EST,16,4.5," ",No
+nhl.p.3347,Dion,Phaneuf,D,LA,STL,STL@LA,4:00PM EST,10,1.8," ",No
+nhl.p.3349,Jeff,Carter,C,LA,STL,STL@LA,4:00PM EST,18,4.9," ",No
+nhl.p.3351,Dustin,Brown,RW,LA,STL,STL@LA,4:00PM EST,16,6.5," ",No
+nhl.p.3698,Nate,Thompson,C,LA,STL,STL@LA,4:00PM EST,10,1.8," ",No
+nhl.p.3788,Anze,Kopitar,C,LA,STL,STL@LA,4:00PM EST,19,6.5," ",No
+nhl.p.4147,Jonathan,Quick,G,LA,STL,STL@LA,4:00PM EST,35,9.6," ",Yes
+nhl.p.4424,Alec,Martinez,D,LA,STL,STL@LA,4:00PM EST,16,5.0," ",No
+nhl.p.4472,Drew,Doughty,D,LA,STL,STL@LA,4:00PM EST,18,5.5," ",No
+nhl.p.4765,Kyle,Clifford,LW,LA,STL,STL@LA,4:00PM EST,10,2.8," ",No
+nhl.p.4819,Jake,Muzzin,D,LA,STL,STL@LA,4:00PM EST,17,5.5," ",No
+nhl.p.4971,Jack,Campbell,G,LA,STL,STL@LA,4:00PM EST,34,11.8," ",No
+nhl.p.4975,Derek,Forbort,D,LA,STL,STL@LA,4:00PM EST,10,3.2," ",No
+nhl.p.5020,Tyler,Toffoli,RW,LA,STL,STL@LA,4:00PM EST,14,4.2," ",No
+nhl.p.5598,Carl,Hagelin,LW,LA,STL,STL@LA,4:00PM EST,10,2.9," ",No
+nhl.p.5779,Brendan,Leipsic,RW,LA,STL,STL@LA,4:00PM EST,10,2.8," ",No
+nhl.p.5870,Paul,LaDue,D,LA,STL,STL@LA,4:00PM EST,10,1.8," ",No
+nhl.p.6395,Adrian,Kempe,C,LA,STL,STL@LA,4:00PM EST,10,2.5," ",No
+nhl.p.6841,Austin,Wagner,LW,LA,STL,STL@LA,4:00PM EST,10,2.2," ",No
+nhl.p.7445,Matt,Luff,RW,LA,STL,STL@LA,4:00PM EST,11,3.6," ",No
+nhl.p.7493,Alex,Iafallo,LW,LA,STL,STL@LA,4:00PM EST,13,4.6," ",No
+nhl.p.7501,Oscar,Fantenberg,D,LA,STL,STL@LA,4:00PM EST,10,2.2,DTD,No
+nhl.p.7751,Sean,Walker,D,LA,STL,STL@LA,4:00PM EST,10,2.4," ",No
+nhl.p.3990,Trevor,Lewis,RW,LA,STL,STL@LA,4:00PM EST,10,2.3,IR,No
+nhl.p.6128,Jonny,Brodzinski,RW,LA,STL,STL@LA,4:00PM EST,10,2.8,IR,No
+nhl.p.2842,Mikko,Koivu,C,MIN,VGK,MIN@VGK,6:00PM EST,15,5.4," ",No
+nhl.p.3342,Eric,Staal,C,MIN,VGK,MIN@VGK,6:00PM EST,19,6.6," ",No
+nhl.p.3345,Ryan,Suter,D,MIN,VGK,MIN@VGK,6:00PM EST,13,5.7," ",No
+nhl.p.3355,Zach,Parise,LW,MIN,VGK,MIN@VGK,6:00PM EST,23,8.8," ",No
+nhl.p.3356,Eric,Fehr,C,MIN,VGK,MIN@VGK,6:00PM EST,10,2.7,IR,No
+nhl.p.3650,Devan,Dubnyk,G,MIN,VGK,MIN@VGK,6:00PM EST,31,10.5," ",Yes
+nhl.p.4286,Matt,Hendricks,C,MIN,VGK,MIN@VGK,6:00PM EST,10,1.6," ",No
+nhl.p.4642,Alex,Stalock,G,MIN,VGK,MIN@VGK,6:00PM EST,27,6.8," ",No
+nhl.p.4779,Marcus,Foligno,LW,MIN,VGK,MIN@VGK,6:00PM EST,10,2.2," ",No
+nhl.p.4832,Nate,Prosser,D,MIN,VGK,MIN@VGK,6:00PM EST,10,1.6," ",No
+nhl.p.4969,Mikael,Granlund,RW,MIN,VGK,MIN@VGK,6:00PM EST,19,6.7," ",No
+nhl.p.4988,Charlie,Coyle,C,MIN,VGK,MIN@VGK,6:00PM EST,12,4.6," ",No
+nhl.p.5032,Jason,Zucker,LW,MIN,VGK,MIN@VGK,6:00PM EST,15,5.8," ",No
+nhl.p.5232,Jared,Spurgeon,D,MIN,VGK,MIN@VGK,6:00PM EST,15,6.0," ",No
+nhl.p.5371,Jonas,Brodin,D,MIN,VGK,MIN@VGK,6:00PM EST,11,3.6," ",No
+nhl.p.5496,Nick,Seeler,D,MIN,VGK,MIN@VGK,6:00PM EST,10,2.7," ",No
+nhl.p.5636,Greg,Pateryn,D,MIN,VGK,MIN@VGK,6:00PM EST,10,2.2," ",No
+nhl.p.5641,J.T.,Brown,RW,MIN,VGK,MIN@VGK,6:00PM EST,10,1.4," ",No
+nhl.p.6762,Joel,Eriksson Ek,C,MIN,VGK,MIN@VGK,6:00PM EST,10,2.2," ",No
+nhl.p.6792,Jordan,Greenway,LW,MIN,VGK,MIN@VGK,6:00PM EST,10,3.0," ",No
+nhl.p.7123,Luke,Kunin,RW,MIN,VGK,MIN@VGK,6:00PM EST,10,2.6," ",No
+nhl.p.5687,Matt,Dumba,D,MIN,VGK,MIN@VGK,6:00PM EST,21,7.9,IR,No
+nhl.p.3341,Marc-Andre,Fleury,G,VGK,MIN,MIN@VGK,6:00PM EST,38,11.7," ",Yes
+nhl.p.3487,Deryk,Engelland,D,VGK,MIN,MIN@VGK,6:00PM EST,10,3.5," ",No
+nhl.p.4023,Paul,Stastny,C,VGK,MIN,MIN@VGK,6:00PM EST,19,7.2," ",No
+nhl.p.4186,Ryan,Reaves,RW,VGK,MIN,MIN@VGK,6:00PM EST,10,3.3," ",No
+nhl.p.4261,Max,Pacioretty,LW,VGK,MIN,MIN@VGK,6:00PM EST,19,6.7," ",No
+nhl.p.4386,Nick,Holden,D,VGK,MIN,MIN@VGK,6:00PM EST,12,3.6," ",No
+nhl.p.4817,Cody,Eakin,C,VGK,MIN,MIN@VGK,6:00PM EST,14,5.3," ",No
+nhl.p.5011,Jon,Merrill,D,VGK,MIN,MIN@VGK,6:00PM EST,11,3.7," ",No
+nhl.p.5030,Oscar,Lindberg,LW,VGK,MIN,MIN@VGK,6:00PM EST,11,3.6," ",No
+nhl.p.5193,Brandon,Pirri,LW,VGK,MIN,MIN@VGK,6:00PM EST,21,10.8," ",No
+nhl.p.5227,Brayden,McNabb,D,VGK,MIN,MIN@VGK,6:00PM EST,14,4.1," ",No
+nhl.p.5421,William,Karlsson,C,VGK,MIN,MIN@VGK,6:00PM EST,19,6.0," ",No
+nhl.p.5704,Malcolm,Subban,G,VGK,MIN,MIN@VGK,6:00PM EST,33,8.4,IR,No
+nhl.p.5712,Jonathan,Marchessault,LW,VGK,MIN,MIN@VGK,6:00PM EST,22,7.6," ",No
+nhl.p.5901,Maxime,Lagace,G,VGK,MIN,MIN@VGK,6:00PM EST,22,5.2," ",No
+nhl.p.5932,Nate,Schmidt,D,VGK,MIN,MIN@VGK,6:00PM EST,17,6.9," ",No
+nhl.p.5979,Brad,Hunt,D,VGK,MIN,MIN@VGK,6:00PM EST,15,6.2," ",No
+nhl.p.6005,Shea,Theodore,D,VGK,MIN,MIN@VGK,6:00PM EST,16,5.2," ",No
+nhl.p.6017,Valentin,Zykov,RW,VGK,MIN,MIN@VGK,6:00PM EST,10,1.4," ",No
+nhl.p.6343,Ryan,Carpenter,RW,VGK,MIN,MIN@VGK,6:00PM EST,11,2.7," ",No
+nhl.p.6365,Pierre-Edouard,Bellemare,C,VGK,MIN,MIN@VGK,6:00PM EST,10,2.9," ",No
+nhl.p.6366,Tomas,Nosek,LW,VGK,MIN,MIN@VGK,6:00PM EST,10,2.7," ",No
+nhl.p.6384,Alex,Tuch,RW,VGK,MIN,MIN@VGK,6:00PM EST,21,8.1," ",No
+nhl.p.5639,Reilly,Smith,RW,VGK,MIN,MIN@VGK,6:00PM EST,16,5.9,IR,No
+nhl.p.6037,William,Carrier,LW,VGK,MIN,MIN@VGK,6:00PM EST,10,3.0,IR,No
+nhl.p.5841,Colin,Miller,D,VGK,MIN,MIN@VGK,6:00PM EST,16,5.4," ",No
+nhl.p.5946,Erik,Haula,C,VGK,MIN,MIN@VGK,6:00PM EST,13,4.4,IR,No
+nhl.p.3741,David,Clarkson,RW,VGK,MIN,MIN@VGK,6:00PM EST,10,0.0,IR,No
+nhl.p.5726,Pontus,Aberg,LW,MIN,VGK,MIN@VGK,6:00PM EST,10,4.3," ",No
+nhl.p.5410,Victor,Rask,C,MIN,VGK,MIN@VGK,6:00PM EST,10,2.3," ",No
+nhl.p.6449,Louie,Belpedio,D,MIN,VGK,MIN@VGK,6:00PM EST,15,5.0," ",No
+nhl.p.1600,Joe,Thornton,C,SJ,FLA,SJ@FLA,7:00PM EST,14,4.6," ",No
+nhl.p.3358,Brent,Burns,D,SJ,FLA,SJ@FLA,7:00PM EST,30,10.2," ",No
+nhl.p.3829,Marc-Edouard,Vlasic,D,SJ,FLA,SJ@FLA,7:00PM EST,12,3.3,IR,No
+nhl.p.3985,Joe,Pavelski,RW,SJ,FLA,SJ@FLA,7:00PM EST,22,7.7," ",No
+nhl.p.4248,Logan,Couture,C,SJ,FLA,SJ@FLA,7:00PM EST,21,7.3," ",No
+nhl.p.4491,Erik,Karlsson,D,SJ,FLA,SJ@FLA,7:00PM EST,27,9.1,DTD,No
+nhl.p.4581,Martin,Jones,G,SJ,FLA,SJ@FLA,7:00PM EST,36,9.7," ",Yes
+nhl.p.4684,Evander,Kane,LW,SJ,FLA,SJ@FLA,7:00PM EST,23,8.0," ",No
+nhl.p.4888,Justin,Braun,D,SJ,FLA,SJ@FLA,7:00PM EST,13,4.0," ",No
+nhl.p.5072,Joonas,Donskoi,RW,SJ,FLA,SJ@FLA,7:00PM EST,16,5.0," ",No
+nhl.p.5079,Marcus,Sorensen,LW,SJ,FLA,SJ@FLA,7:00PM EST,10,3.4," ",No
+nhl.p.5105,Tim,Heed,D,SJ,FLA,SJ@FLA,7:00PM EST,11,3.6," ",No
+nhl.p.5251,Brenden,Dillon,D,SJ,FLA,SJ@FLA,7:00PM EST,13,3.8," ",No
+nhl.p.5697,Tomas,Hertl,C,SJ,FLA,SJ@FLA,7:00PM EST,19,7.7," ",No
+nhl.p.5887,Joakim,Ryan,D,SJ,FLA,SJ@FLA,7:00PM EST,10,2.7," ",No
+nhl.p.6290,Barclay,Goodrow,C,SJ,FLA,SJ@FLA,7:00PM EST,10,2.8," ",No
+nhl.p.6361,Melker,Karlsson,RW,SJ,FLA,SJ@FLA,7:00PM EST,10,2.8," ",No
+nhl.p.6539,Kevin,Labanc,LW,SJ,FLA,SJ@FLA,7:00PM EST,14,4.4," ",No
+nhl.p.6596,Aaron,Dell,G,SJ,FLA,SJ@FLA,7:00PM EST,25,8.0," ",No
+nhl.p.6751,Timo,Meier,RW,SJ,FLA,SJ@FLA,7:00PM EST,21,8.5," ",No
+nhl.p.7508,Radim,Simek,D,SJ,FLA,SJ@FLA,7:00PM EST,10,3.2," ",No
+nhl.p.7865,Lukas,Radil,LW,SJ,FLA,SJ@FLA,7:00PM EST,11,4.3," ",No
+nhl.p.1793,Roberto,Luongo,G,FLA,SJ,SJ@FLA,7:00PM EST,20,8.0," ",Yes
+nhl.p.3885,Keith,Yandle,D,FLA,SJ,SJ@FLA,7:00PM EST,20,7.0," ",No
+nhl.p.3947,Troy,Brouwer,RW,FLA,SJ,SJ@FLA,7:00PM EST,10,2.2," ",No
+nhl.p.4369,James,Reimer,G,FLA,SJ,SJ@FLA,7:00PM EST,25,7.5," ",No
+nhl.p.4567,Micheal,Haley,LW,FLA,SJ,SJ@FLA,7:00PM EST,10,1.4," ",No
+nhl.p.4599,Colton,Sceviour,LW,FLA,SJ,SJ@FLA,7:00PM EST,11,3.8," ",No
+nhl.p.4753,Evgenii,Dadonov,RW,FLA,SJ,SJ@FLA,7:00PM EST,17,7.1," ",No
+nhl.p.4805,Mike,Hoffman,RW,FLA,SJ,SJ@FLA,7:00PM EST,21,7.8," ",No
+nhl.p.4979,Nick,Bjugstad,RW,FLA,SJ,SJ@FLA,7:00PM EST,12,4.2," ",No
+nhl.p.4983,Mark,Pysyk,D,FLA,SJ,SJ@FLA,7:00PM EST,10,2.7," ",No
+nhl.p.5364,Jonathan,Huberdeau,LW,FLA,SJ,SJ@FLA,7:00PM EST,20,7.3," ",No
+nhl.p.5703,Mike,Matheson,D,FLA,SJ,SJ@FLA,7:00PM EST,12,3.9," ",No
+nhl.p.5981,Aleksander,Barkov,C,FLA,SJ,SJ@FLA,7:00PM EST,25,7.5," ",No
+nhl.p.6011,Ian,McCoshen,D,FLA,SJ,SJ@FLA,7:00PM EST,10,1.9," ",No
+nhl.p.6184,MacKenzie,Weegar,D,FLA,SJ,SJ@FLA,7:00PM EST,10,3.0,IR,No
+nhl.p.6367,Aaron,Ekblad,D,FLA,SJ,SJ@FLA,7:00PM EST,15,5.0," ",No
+nhl.p.6390,Jared,McCann,C,FLA,SJ,SJ@FLA,7:00PM EST,11,3.7," ",No
+nhl.p.6401,Jayce,Hawryluk,RW,FLA,SJ,SJ@FLA,7:00PM EST,10,2.5," ",No
+nhl.p.6707,Frank,Vatrano,LW,FLA,SJ,SJ@FLA,7:00PM EST,17,5.8," ",No
+nhl.p.6844,Denis,Malgin,RW,FLA,SJ,SJ@FLA,7:00PM EST,10,3.1," ",No
+nhl.p.7131,Henrik,Borgstrom,C,FLA,SJ,SJ@FLA,7:00PM EST,10,3.8," ",No
+nhl.p.7893,Bogdan,Kiselevich,D,FLA,SJ,SJ@FLA,7:00PM EST,10,1.9," ",No
+nhl.p.5431,Vincent,Trocheck,C,FLA,SJ,SJ@FLA,7:00PM EST,22,7.5," ",No
+nhl.p.2795,Derek,MacKenzie,C,FLA,SJ,SJ@FLA,7:00PM EST,10,0.0,IR,No
+nhl.p.4160,Jamie,McGinn,LW,FLA,SJ,SJ@FLA,7:00PM EST,12,3.5,DTD,No
+nhl.p.7168,Dylan,Gambrell,C,SJ,FLA,SJ@FLA,7:00PM EST,10,2.0," ",No
+nhl.p.6132,Josh,Brown,D,FLA,SJ,SJ@FLA,7:00PM EST,10,1.0," ",No
